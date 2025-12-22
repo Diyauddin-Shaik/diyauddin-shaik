@@ -4,7 +4,7 @@
 
 ### 👋 Hi, I’m Diyauddin Shaik 🤖
 
-- 👀 A Web Developer 👨🏻‍💻
+- 👀 A Devops Engineer 👨🏻‍💻
 - 🌱 I’m currently working on Laravel 👨‍💻
 
 ### 📫 Reach me on:
