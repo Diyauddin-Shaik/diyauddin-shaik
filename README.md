@@ -2,7 +2,7 @@
   <img src="https://saipraveen.in/images/web_developement.gif" alt="Banner Image">
 </p>
 
-### 👋 Hi, I’m Sai Praveen 🤖
+### 👋 Hi, I’m Diyauddin Shaik 🤖
 
 - 👀 A Web Developer 👨🏻‍💻
 - 🌱 I’m currently working on Laravel 👨‍💻
