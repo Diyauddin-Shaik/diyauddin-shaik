@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://saipraveen.in/images/web_developement.gif" alt="Banner Image">
+</p>
 
-<!--
-**Diyauddin-Shaik/diyauddin-shaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I’m Sai Praveen 🤖
 
-Here are some ideas to get you started:
+- 👀 A Web Developer 👨🏻‍💻
+- 🌱 I’m currently working on Laravel 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me on:
+
+- Email 👨🏻‍💻   : [ibm.diyauddin@gmail.com](mailto:ibm.diyauddin@gmail.com)
+- Website 🌍 : [www.in](https://.in)
+
+### HAPPY CODING 😎
